@@ -4,6 +4,7 @@ class Solution(object):
         :type k: int
         :type n: int
         :rtype: List[List[int]]
+        #may only use 1 - 9, once per sum
         """
         
         # 0 < x < 10 for all numbers used
